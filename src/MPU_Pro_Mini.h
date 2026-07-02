@@ -21,7 +21,7 @@
 #include <Arduino.h>
 #include <stdint.h>
 #include <stdlib.h>
-#include "queue.h"
+#include "MPU_Queue.h"
 
 // Default pin used by the TS3USB221A switch to connect Serial to the MiP or PC.
 //   Set to HIGH, it selects the MiP.
