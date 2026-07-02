@@ -17,8 +17,8 @@
    NOT THREAD SAFE!
    ****************
 */
-#ifndef QUEUE_H_
-#define QUEUE_H_
+#ifndef MPU_QUEUE_H_
+#define MPU_QUEUE_H_
 
 #include <stdint.h>
 
@@ -110,4 +110,4 @@ protected:
     uint8_t     m_writeIndex;
 };
 
-#endif // QUEUE_H_
+#endif // MPU_QUEUE_H_
