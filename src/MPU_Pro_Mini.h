@@ -15,8 +15,8 @@
 /* This header file describes the public API that an application can use to communicate with the WowWee MiP
    self-balancing robot.
 */
-#ifndef MIP_H_
-#define MIP_H_
+#ifndef MPU_PRO_MINI_H_
+#define MPU_PRO_MINI_H_
 
 #include <Arduino.h>
 #include <stdint.h>
@@ -717,4 +717,4 @@ protected:
 #define Serial MiPStream
 
 
-#endif // MIP_H_
+#endif // MPU_PRO_MINI_H_

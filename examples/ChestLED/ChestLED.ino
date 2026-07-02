@@ -17,7 +17,7 @@
     readChestLED()
     unverifiedChestLED()
 */
-#include <mip.h>
+#include <MPU_Pro_Mini.h>
 
 MiP     mip;
 

@@ -13,7 +13,7 @@
    limitations under the License.
 */
 /* Implementation of MiP C API. */
-#include "mip.h"
+#include "MPU_Pro_Mini.h"
 
 
 // Make sure that the MiP module itself always uses the actual Serial object and not the redirection to MiPStream.
