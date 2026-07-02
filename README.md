@@ -25,4 +25,4 @@ Be sure to check out the [MiP Power Up: Pro Mini](https://github.com/Tiogaplanet
 A very thorough guide to using the MiP Power Up: Pro Mini library is provided in the [wiki](https://github.com/Tiogaplanet/MiP_Power_Up_Pro_Mini_lib/wiki). (Coming soon.)
 
 ## Contributing
-This project is intended to make programming MiP easy and fun.  To that end, contributions are highly encouraged!  Please see [CONTRIBUTING.md](https://github.com/Tiogaplanet/MiP_Power Up_Pro_Mini_lib/blob/master/CONTRIBUTING.md) for more information.
+This project is intended to make programming MiP easy and fun.  To that end, contributions are highly encouraged!  Please see [CONTRIBUTING.md](https://github.com/Tiogaplanet/MPU_Pro_Mini_lib/blob/master/CONTRIBUTING.md) for more information.
