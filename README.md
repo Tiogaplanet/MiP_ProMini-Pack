@@ -13,11 +13,10 @@ MiP is a hacker friendly self-balancing robot. WowWee not only provides the [MiP
 *   Detect the MiP's current pose via its inertial sensors, the same sensors that make its balancing magic possible.
 *   And more!
   
-Be sure to check out the [MiP Power Up: Pro Mini](https://github.com/Tiogaplanet/MiP_Power_Up_Pro_Mini) which conveniently allows you to mount a D1 mini to MiP's battery
+Be sure to check out the [MiP Power Up: Pro Mini](https://github.com/Tiogaplanet/MiP_Power_Up_Pro_Mini) which conveniently allows you to mount a D1 mini to MiP's battery compartment.
 
 ## Acknowledgement
-*   This project a fork of adamgreen's  [MiP ProMini-Pack](https://github.com/adamgreen/MiP_ProMini-Pack) which is in turn based on the now retired [Sparkfun MiP ProMini-Pack](https://www.sparkfun.com/products/retired/13058). 
-*   The original Eagle files can be found on [GitHub](https://github.com/sparkfun/MiP_ProMini-Pack). They were created by Sparkfun employee [Casey Kuhns](https://github.com/caseykuhns).
+*   This project is a fork of adamgreen's [MiP ProMini-Pack](https://github.com/adamgreen/MiP_ProMini-Pack) which is in turn based on the now retired [Sparkfun MiP ProMini-Pack](https://www.sparkfun.com/products/retired/13058). 
 
 ## Installation
 *  The MiP Power Up: Pro Mini library is intended for use with the Arduino IDE.  Installation is the same as for other libraries.  Download the zip and select `Sketch->Include Library->Add .ZIP Library...`.  Browse to the downloaded zip file and the Arduino IDE will do the rest.
