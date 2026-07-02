@@ -1,5 +1,5 @@
 # MiP Power Up: Pro Mini
-![The MiP Power Up: Pro Mini mounted on MiP](https://raw.githubusercontent.com/Tiogaplanet/MiP_ProMini-Pack/master/images/20180416-02.jpg)
+![The MiP Power Up: Pro Mini mounted on MiP](https://github.com/Tiogaplanet/Experimenting-with-the-MiP/blob/48a70aedf950a8fad7d521446181a175cac245fa/images/MPU_Pro_Mini.jpg)
 
 This project provides a library for the Arduino IDE and allows users to take control of [WowWee Labs'](https://github.com/WowWeeLabs/)  [MiP](https://wowwee.com/mip) robot.
 
